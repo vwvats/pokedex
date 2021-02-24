@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@apollo/react-hooks": "./@apollo/react-hooks.js",
+    "apollo-boost": "./apollo-boost.js",
+    "graphql-tag": "./graphql-tag.js",
+    "react": "./react.js",
+    "react-dom": "./react-dom.js"
+  }
+}
